@@ -8,6 +8,6 @@ namespace api.CodeTest.DAL.Repositories.Interfaces
 {
     public interface IProductRepository : IRepository<Product>
     {
-        Task<Product> GetProductByTitle(string title);
+        Task<Product> GetProductByName(string name);
     }
 }

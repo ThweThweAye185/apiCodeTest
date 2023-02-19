@@ -13,6 +13,6 @@ namespace api.CodeTest.DAL.Services.Interfaces
         Task<bool> CreateEmployeeAsync(Employee customer);
         Task<bool> UpdateEmployeeAsync(string id, Employee customer);
         Task<bool> DeleteEmployeeAsync(string id);
-        Task<Employee> GetProductDetailByTitle(string title);
+        Task<Employee> GetProductDetailByName(string name);
     }
 }

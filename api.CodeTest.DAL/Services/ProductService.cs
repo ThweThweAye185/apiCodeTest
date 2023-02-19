@@ -29,16 +29,16 @@ namespace api.CodeTest.DAL.Services
             return _productRepository.GetByIdAsync(id);
         }
 
-        public Task<Product> GetProductDetailByTitle(string title)
+        public Task<Product> GetProductDetailByName(string name)
         {
-            return _productRepo.GetProductByTitle(title);
+            return _productRepo.GetProductByName(name);
         }
         public async Task<bool> CreateProductAsync(Product product)
         {
             try
             {
                 product.Id = System.Guid.NewGuid().ToString();
-                product.IsAvailable = true;
+                //product.IsAvailable = true;
                 product.Active = true;
                 product.CreatedBy = "admin";
                 product.CreatedDate = DateTime.Now;
@@ -58,7 +58,7 @@ namespace api.CodeTest.DAL.Services
             {
                 Product prod = await _productRepository.GetByIdAsync(id);
                 prod.Active =false;
-                prod.IsAvailable = product.IsAvailable;
+                //prod.IsAvailable = product.IsAvailable;
                 prod.UpdatedBy = "admin";
                 prod.UpdatedDate = DateTime.Now;
                 await _productRepository.UpdateAsync(prod);

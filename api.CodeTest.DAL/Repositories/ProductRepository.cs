@@ -14,9 +14,9 @@ namespace api.CodeTest.DAL.Repositories
         {
 
         }
-        public Task<Product> GetProductByTitle(string title)
+        public Task<Product> GetProductByName(string name)
         {
-            return _context.Prodcuts.FirstOrDefaultAsync(s => s.Title == title);
+            return _context.Prodcuts.FirstOrDefaultAsync(s => s.Name == name);
         }
     }
 }

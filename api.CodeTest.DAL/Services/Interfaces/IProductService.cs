@@ -13,6 +13,6 @@ namespace api.CodeTest.DAL.Services.Interfaces
         Task<bool> CreateProductAsync(Product customer);
         Task<bool> UpdateProductAsync(string id, Product customer);
         Task<bool> DeleteProductAsync(string id);
-        Task<Product> GetProductDetailByTitle(string title);
+        Task<Product> GetProductDetailByName(string name);
     }
 }
