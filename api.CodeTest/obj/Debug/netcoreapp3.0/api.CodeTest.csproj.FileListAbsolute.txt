@@ -664,3 +664,5 @@ C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest\obj\Debug\netcoreapp3.0\api.C
 C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest\obj\Debug\netcoreapp3.0\api.CodeTest.csprojAssemblyReference.cache
 C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest\obj\Debug\netcoreapp3.0\staticwebassets\api.CodeTest.StaticWebAssets.xml
+C:\Users\Admin\Downloads\Code Test\api.CodeTest\obj\Debug\netcoreapp3.0\api.CodeTest.dll
+C:\Users\Admin\Downloads\Code Test\api.CodeTest\obj\Debug\netcoreapp3.0\api.CodeTest.pdb

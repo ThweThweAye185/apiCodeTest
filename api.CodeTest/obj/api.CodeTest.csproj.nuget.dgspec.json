@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest\\api.CodeTest.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
       "version": "2.8.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
         "projectName": "api.CodeTest.DAL",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest\\api.CodeTest.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest\\api.CodeTest.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj",
         "projectName": "api.CodeTest",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest\\api.CodeTest.csproj",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\api.CodeTest\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj"
+              "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj"
               }
             }
           }

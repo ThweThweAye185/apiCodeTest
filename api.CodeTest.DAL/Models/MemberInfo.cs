@@ -11,6 +11,8 @@ namespace api.CodeTest.DAL.Models
         public string phoneNumber{get;set;}
         public int totalPoints{get;set;}
         public decimal purchaseAmount{get;set;}
+        
+        public virtual Product Product { get; set; }
 
     }
 }

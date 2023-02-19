@@ -16,8 +16,10 @@ namespace api.CodeTest.DAL.Models
         public byte[] couponQRCode { get; set; }
         public int MaxEVoucher { get; set; }
         public int MaxEVoucherPerUser { get; set; }
-        public ICollection<BuyProduct> BuyType { get; set; }
-        public ICollection<Promotion> Promotion { get; set; }
-        public ICollection<Order> Order { get; set; }
+        public string memberId { get; set; }
+        public string productitemId { get; set; }
+
+        public ICollection<ProductItem> ProductItem { get; set; }
+        public ICollection<MemberInfo> MemberInfo { get; set; }
     }
 }

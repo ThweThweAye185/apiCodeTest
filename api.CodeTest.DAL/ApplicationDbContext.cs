@@ -17,12 +17,9 @@ namespace api.CodeTest.DAL
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         { }
         public string CurrentUserId { get; set; }
-        public DbSet<Product> Prodcuts { get; set; }
-        public DbSet<BuyProduct> BuyProduct { get; set; }
-        public DbSet<Order> Order { get; set; }        
-        public DbSet<Payment> Payment { get; set; }
-        public DbSet<TransactionAudit> TransactionAudit { get; set; }
-        public DbSet<Promotion> Promotion { get; set; }
+        public DbSet<MemberInfo> MemberInfo { get; set; }
+        public DbSet<Product> Product { get; set; }
+        public DbSet<ProductItem> ProductItem { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -34,11 +31,8 @@ namespace api.CodeTest.DAL
             builder.Entity<ApplicationRole>().HasMany(r => r.Users).WithOne().HasForeignKey(r => r.RoleId).IsRequired().OnDelete(DeleteBehavior.Cascade);
 
             new ProductModelBuilder(builder.Entity<Product>().ToTable("Product"));
-            new BuyProductModelBuilder(builder.Entity<BuyProduct>().ToTable("BuyProduct"));
-            new OrderModelBuilder(builder.Entity<Order>().ToTable("Order"));          
-            new PaymentModelBuilder(builder.Entity<Payment>().ToTable("Payment"));
-            new TranAuditModelBuilder(builder.Entity<TransactionAudit>().ToTable("TransactionAudit"));
-            new PromotionModelBuilder(builder.Entity<Promotion>().ToTable("Promotion"));
+            new MemberInfoModelBuilder(builder.Entity<MemberInfo>().ToTable("MemberInfo"));
+            new ProductItemModelBuilder(builder.Entity<ProductItem>().ToTable("ProductItem"));
 
         }
 
