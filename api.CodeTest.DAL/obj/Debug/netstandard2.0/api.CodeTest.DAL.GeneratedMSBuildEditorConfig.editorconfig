@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = api.CodeTest.DAL
+build_property.ProjectDir = /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/
