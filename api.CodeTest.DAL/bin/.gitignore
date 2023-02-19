@@ -318,7 +318,6 @@ __pycache__/
 # Telerik's JustMock configuration file
 *.jmconfig
 
-# BizTalk build output
 *.btp.cs
 *.btm.cs
 *.odx.cs
@@ -354,6 +353,5 @@ MigrationBackup/
 !.vscode/launch.json
 !.vscode/tasks.json
 Properties/launchSettings.json
-biz-portal-api.sln
-biz-portal-api.csproj
+
 
