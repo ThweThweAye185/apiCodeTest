@@ -8,3 +8,11 @@
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.pdb
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.dll
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.pdb
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.deps.json
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.dll
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.pdb
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.dll
+C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.pdb
