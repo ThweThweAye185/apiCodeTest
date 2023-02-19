@@ -1,41 +1,10 @@
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.deps.json
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.dll
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csprojAssemblyReference.cache
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfoInputs.cache
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfo.cs
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.CoreCompileInputs.cache
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.dll
-D:/MyFile/NetCodeTest(WaiLinnAung)/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.deps.json
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.dll
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csprojAssemblyReference.cache
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfoInputs.cache
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfo.cs
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.CoreCompileInputs.cache
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.dll
-/home/wailinn/MyInfo/Project/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.deps.json
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.dll
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.AssemblyReference.cache
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfoInputs.cache
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfo.cs
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.CoreCompileInputs.cache
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.dll
-/home/wailinn/api.CodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.pdb
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.deps.json
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.dll
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\bin\Debug\netstandard2.0\api.CodeTest.DAL.pdb
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfoInputs.cache
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfo.cs
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.dll
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.pdb
-C:\Users\Admin\Downloads\api.CodeTest\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.csprojAssemblyReference.cache
-C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.csprojAssemblyReference.cache
-C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfoInputs.cache
-C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.AssemblyInfo.cs
-C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.dll
-C:\Users\Admin\Downloads\Code Test\api.CodeTest.DAL\obj\Debug\netstandard2.0\api.CodeTest.DAL.pdb
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.AssemblyReference.cache
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfoInputs.cache
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.AssemblyInfo.cs
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.csproj.CoreCompileInputs.cache
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.deps.json
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.dll
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/bin/Debug/netstandard2.0/api.CodeTest.DAL.pdb
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.dll
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/Debug/netstandard2.0/api.CodeTest.DAL.pdb

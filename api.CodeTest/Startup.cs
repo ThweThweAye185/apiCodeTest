@@ -96,14 +96,9 @@ namespace api.CodeTest
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped(typeof(IAccountRepository<>), typeof(AccountRepository<>));
             services.AddScoped<IProductRepository, ProductRepository>();
-            services.AddScoped<IOrderRepository, OrderRepository>();
-            services.AddScoped<IBuyProductRepository, BuyProductRepository>();
           
             services.AddScoped<IAuthenticateService, AuthenticateService>();
             services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<IOrderService, OrderService>();
-            services.AddScoped<IBuyProductService, BuyProductService>();           
-            services.AddScoped<ITransactionAuditService, TransactionAuditService>();
             // DB Creation and Seeding
             services.AddTransient<IDatabaseInitializer, DatabaseInitializer>();
         }

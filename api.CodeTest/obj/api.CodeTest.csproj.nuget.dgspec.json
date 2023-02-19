@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj": {}
+    "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/api.CodeTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
+    "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/api.CodeTest.DAL.csproj": {
       "version": "2.8.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
+        "projectUniqueName": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/api.CodeTest.DAL.csproj",
         "projectName": "api.CodeTest.DAL",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\obj\\",
+        "projectPath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/api.CodeTest.DAL.csproj",
+        "packagesPath": "/home/wailinn/.nuget/packages/",
+        "outputPath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/wailinn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/admin-rezeve/index.json": {},
+          "https://nuget.pkg.github.com/yannaing-codigo/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -71,35 +73,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj": {
+    "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/api.CodeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj",
+        "projectUniqueName": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/api.CodeTest.csproj",
         "projectName": "api.CodeTest",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\api.CodeTest.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest\\obj\\",
+        "projectPath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/api.CodeTest.csproj",
+        "packagesPath": "/home/wailinn/.nuget/packages/",
+        "outputPath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/wailinn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/admin-rezeve/index.json": {},
+          "https://nuget.pkg.github.com/yannaing-codigo/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Downloads\\Code Test\\api.CodeTest.DAL\\api.CodeTest.DAL.csproj"
+              "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/api.CodeTest.DAL.csproj": {
+                "projectPath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest.DAL/api.CodeTest.DAL.csproj"
               }
             }
           }
@@ -112,6 +115,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -222,6 +226,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -230,7 +248,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
         }
       }
     }

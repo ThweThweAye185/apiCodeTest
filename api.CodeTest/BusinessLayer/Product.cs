@@ -35,24 +35,16 @@ namespace api.CodeTest.BusinessLayer
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
         private readonly IProductService _productService;
-        private readonly IBuyProductRepository _buyProductRepository;
-        private readonly IBuyProductService _buyProductService;
-        private readonly IOrderService _orderService;
-        private readonly ITransactionAuditService _transactionAuditService;
 
         CultureInfo provider = CultureInfo.InvariantCulture;
         #endregion
 
         #region Constructor
-        public Product(IProductRepository productRepository, IMapper mapper, ApplicationDbContext context, IProductService productService,
-            IBuyProductService buyProductService, IOrderService orderService, ITransactionAuditService transactionAuditService)
+        public Product(IProductRepository productRepository, IMapper mapper, ApplicationDbContext context, IProductService productService)
         {
             _productRepository = productRepository;
             _mapper = mapper;
             _productService = productService;
-            _buyProductService = buyProductService;
-            _orderService = orderService;
-            _transactionAuditService = transactionAuditService;
         }
 
         #endregion
