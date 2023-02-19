@@ -1,0 +1,8 @@
+D:\MyFile\TestApp\TestApp.DAL\bin\Release\netstandard2.0\TestApp.DAL.deps.json
+D:\MyFile\TestApp\TestApp.DAL\bin\Release\netstandard2.0\TestApp.DAL.dll
+D:\MyFile\TestApp\TestApp.DAL\bin\Release\netstandard2.0\TestApp.DAL.pdb
+D:\MyFile\TestApp\TestApp.DAL\obj\Release\netstandard2.0\TestApp.DAL.AssemblyInfoInputs.cache
+D:\MyFile\TestApp\TestApp.DAL\obj\Release\netstandard2.0\TestApp.DAL.AssemblyInfo.cs
+D:\MyFile\TestApp\TestApp.DAL\obj\Release\netstandard2.0\TestApp.DAL.dll
+D:\MyFile\TestApp\TestApp.DAL\obj\Release\netstandard2.0\TestApp.DAL.pdb
+D:\MyFile\TestApp\TestApp.DAL\obj\Release\netstandard2.0\TestApp.DAL.csprojAssemblyReference.cache
