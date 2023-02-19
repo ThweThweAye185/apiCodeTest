@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tq1Fjrc1LrE8joo5aoo8KOfXTDqM1Qdvc1KWAN+CDWEfdIR26xE/zKR8BppEVTIXByWfjPh90pRRegOTNjY4Xw==",
+  "dgSpecHash": "MOnyW+KWRQBYCwL24Gx7OYC2BzD3hY2bUUNfmcWDD5r2syFqB2dN3kF1c2A+WO6cRonjZ5c6lx3G9DOL10c/NQ==",
   "success": true,
   "projectFilePath": "/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/api.CodeTest.csproj",
   "expectedPackageFiles": [
     "/home/wailinn/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/home/wailinn/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/wailinn/.nuget/packages/awssdk.core/3.7.105.6/awssdk.core.3.7.105.6.nupkg.sha512",
+    "/home/wailinn/.nuget/packages/awssdk.simplenotificationservice/3.7.101.13/awssdk.simplenotificationservice.3.7.101.13.nupkg.sha512",
     "/home/wailinn/.nuget/packages/entityframework/6.1.0/entityframework.6.1.0.nupkg.sha512",
     "/home/wailinn/.nuget/packages/identitymodel/4.0.0/identitymodel.4.0.0.nupkg.sha512",
     "/home/wailinn/.nuget/packages/identitymodel.aspnetcore.oauth2introspection/3.5.0/identitymodel.aspnetcore.oauth2introspection.3.5.0.nupkg.sha512",
@@ -52,6 +54,7 @@
     "/home/wailinn/.nuget/packages/microsoft.aspnetcore.spaservices/3.0.0-preview7.19365.7/microsoft.aspnetcore.spaservices.3.0.0-preview7.19365.7.nupkg.sha512",
     "/home/wailinn/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/3.0.0-preview7.19365.7/microsoft.aspnetcore.spaservices.extensions.3.0.0-preview7.19365.7.nupkg.sha512",
     "/home/wailinn/.nuget/packages/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "/home/wailinn/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/home/wailinn/.nuget/packages/microsoft.codeanalysis.analyzers/2.9.3/microsoft.codeanalysis.analyzers.2.9.3.nupkg.sha512",
     "/home/wailinn/.nuget/packages/microsoft.codeanalysis.common/3.3.0/microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
     "/home/wailinn/.nuget/packages/microsoft.codeanalysis.csharp/3.3.0/microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",

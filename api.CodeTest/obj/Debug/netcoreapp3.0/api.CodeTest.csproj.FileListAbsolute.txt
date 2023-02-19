@@ -158,3 +158,6 @@
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/obj/Debug/netcoreapp3.0/api.CodeTest.dll
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/obj/Debug/netcoreapp3.0/api.CodeTest.pdb
 /home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/obj/Debug/netcoreapp3.0/api.CodeTest.genruntimeconfig.cache
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/bin/Debug/netcoreapp3.0/AWSSDK.Core.dll
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/bin/Debug/netcoreapp3.0/AWSSDK.SimpleNotificationService.dll
+/home/wailinn/MyFile/Project/CodeTest/apiCodeTest/api.CodeTest/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
