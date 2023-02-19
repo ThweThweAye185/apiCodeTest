@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.CodeTest", "api.CodeTest\api.CodeTest.csproj", "{2320AF49-AF9D-4082-9482-9E93F415919A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.CodeTest.DAL", "api.CodeTest.DAL\api.CodeTest.DAL.csproj", "{F5A95807-74AE-4E69-8036-6489701A929F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2320AF49-AF9D-4082-9482-9E93F415919A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2320AF49-AF9D-4082-9482-9E93F415919A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2320AF49-AF9D-4082-9482-9E93F415919A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2320AF49-AF9D-4082-9482-9E93F415919A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A95807-74AE-4E69-8036-6489701A929F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A95807-74AE-4E69-8036-6489701A929F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A95807-74AE-4E69-8036-6489701A929F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A95807-74AE-4E69-8036-6489701A929F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB6752F-5016-4CD4-A454-AB03245BDF2E}
+	EndGlobalSection
+EndGlobal
