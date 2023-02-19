@@ -117,6 +117,10 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "dependencies": {
+            "AWSSDK.SimpleNotificationService": {
+              "target": "Package",
+              "version": "[3.7.101.13, )"
+            },
             "AutoMapper": {
               "target": "Package",
               "version": "[9.0.0, )"

@@ -19,5 +19,7 @@
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/home/wailinn/.nuget/packages/microsoft.codeanalysis.analyzers/2.9.3</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">/home/wailinn/.nuget/packages/microsoft.entityframeworkcore.tools/2.2.6</PkgMicrosoft_EntityFrameworkCore_Tools>
     <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">/home/wailinn/.nuget/packages/entityframework/6.1.0</PkgEntityFramework>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">/home/wailinn/.nuget/packages/awssdk.core/3.7.105.6</PkgAWSSDK_Core>
+    <PkgAWSSDK_SimpleNotificationService Condition=" '$(PkgAWSSDK_SimpleNotificationService)' == '' ">/home/wailinn/.nuget/packages/awssdk.simplenotificationservice/3.7.101.13</PkgAWSSDK_SimpleNotificationService>
   </PropertyGroup>
 </Project>
