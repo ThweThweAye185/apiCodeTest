@@ -1,9 +1,0 @@
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\bin\Release\netstandard2.0\api.CodigoCodeTest.DAL.deps.json
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\bin\Release\netstandard2.0\api.CodigoCodeTest.DAL.dll
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\bin\Release\netstandard2.0\api.CodigoCodeTest.DAL.pdb
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.csprojAssemblyReference.cache
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.AssemblyInfoInputs.cache
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.AssemblyInfo.cs
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.csproj.CoreCompileInputs.cache
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.dll
-D:\MyFile\Codigo .NetCodeTest(WaiLinnAung)\api.CodigoCodeTest\api.CodigoCodeTest.DAL\obj\Release\netstandard2.0\api.CodigoCodeTest.DAL.pdb

@@ -13,5 +13,7 @@ namespace api.CodeTest.DAL.Models
         public int qty{get;set;}
         public decimal totalPrice{get;set;}
 
+        public virtual Product Product { get; set; }
+
     }
 }
